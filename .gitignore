@@ -3,3 +3,11 @@
 ################################################################################
 
 /Demos/Demo 2/OAuth OpenID Connect MVC Web Application
+/Demos/Demo 3/OAuth OpenID Connect SPA Web Application
+/Demos/Demo 1/OAuth Client Credentials/src/Api/bin/Debug/netcoreapp2.0
+/Demos/Demo 1/OAuth Client Credentials/src/Api/obj
+/Demos/Demo 1/OAuth Client Credentials/src/Client/bin/Debug/netcoreapp2.0
+/Demos/Demo 1/OAuth Client Credentials/src/Client/obj
+/Demos/Demo 1/OAuth Client Credentials/src/IdentityServerWithAspNetIdentity/bin/Debug/netcoreapp2.0
+/Demos/Demo 1/OAuth Client Credentials/src/IdentityServerWithAspNetIdentity/obj
+/Demos/Demo 1/OAuth Client Credentials/.vs
