@@ -29,6 +29,10 @@
 
 [IdentityServer4 Document Site](http://docs.identityserver.io/en/latest/intro/big_picture.html)
 
+[IdentityServer4 GitHub](https://github.com/IdentityServer/IdentityServer4)
+
+[IdentityServer4 Demo Projects](https://github.com/IdentityServer/IdentityServer4/tree/master/samples/Quickstarts)
+
 [JWT tool ](https://jwt.io/)
 
 [OAuth 2.0 Protocol Detailed Walkthrough](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
@@ -42,8 +46,6 @@
 [Using existing DB with IdentityServer4](https://stackoverflow.com/questions/42385422/how-to-use-existing-db-with-identityserver4/42402201#42402201)
 
 [Why not use OAuth 2.0 Resource Owner Password Grant Type](https://www.scottbrady91.com/OAuth/Why-the-Resource-Owner-Password-Credentials-Grant-Type-is-not-Authentication-nor-Suitable-for-Modern-Applications)
-
-[IdentityServer4 Demo Projects](https://github.com/IdentityServer/IdentityServer4/tree/master/samples/Quickstarts)
 
 [Encrypt ID Tokens](https://www.scottbrady91.com/Identity-Server/Encrypting-Identity-Tokens-in-IdentityServer4)
 
