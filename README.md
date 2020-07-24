@@ -26,6 +26,7 @@
 [Discovery](http://openid.net/specs/openid-connect-discovery-1_0.html)
 
 ## Authentication
+
 [SAML vs. WS-Federation] (https://www.ilink-systems.com/blog/single-sign-on-ws-fed-and-saml/)
 
 ## Helpful Links
