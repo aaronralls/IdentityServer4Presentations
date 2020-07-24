@@ -27,7 +27,7 @@
 
 ## Authentication
 
-[SAML vs. WS-Federation] (https://www.ilink-systems.com/blog/single-sign-on-ws-fed-and-saml/)
+[SAML vs. WS-Federation](https://www.ilink-systems.com/blog/single-sign-on-ws-fed-and-saml/)
 
 ## Helpful Links
 
