@@ -25,7 +25,13 @@
 
 [Discovery](http://openid.net/specs/openid-connect-discovery-1_0.html)
 
+## Authentication
+
+[SAML vs. WS-Federation](https://www.ilink-systems.com/blog/single-sign-on-ws-fed-and-saml/)
+
 ## Helpful Links
+
+[IdentityServer4 Blog](https://leastprivilege.com/)
 
 [IdentityServer4 Document Site](http://docs.identityserver.io/en/latest/intro/big_picture.html)
 
@@ -39,6 +45,8 @@
 
 [OpenID Connect Flows](https://www.scottbrady91.com/OpenID-Connect/OpenID-Connect-Flows)
 
+[OpenID Connect Flows 2](https://connect2id.com/learn/openid-connect)
+
 [OKTA - SaaS](https://developer.okta.com/)
 
 [Explicit Logout from IdentityServer4](https://damienbod.com/2016/09/16/full-server-logout-with-identityserver4-and-openid-connect-implicit-flow/)
@@ -48,4 +56,6 @@
 [Why not use OAuth 2.0 Resource Owner Password Grant Type](https://www.scottbrady91.com/OAuth/Why-the-Resource-Owner-Password-Credentials-Grant-Type-is-not-Authentication-nor-Suitable-for-Modern-Applications)
 
 [Encrypt ID Tokens](https://www.scottbrady91.com/Identity-Server/Encrypting-Identity-Tokens-in-IdentityServer4)
+
+
 
